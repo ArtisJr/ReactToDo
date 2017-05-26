@@ -1,3 +1,3 @@
-React Timer Application
+React Boilerplate
 
-A preview of this application can be seen at https://goo.gl/XBjxZp
+A simple react boilerplate project to quickly get a project up and running.
